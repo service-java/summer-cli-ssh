@@ -1,0 +1,23 @@
+
+# Created by .ignore support plugin (hsz.mobi)
+### .gitignore template
+target/
+*.iml
+*.ipr
+*.iws
+.idea/
+logs/
+.log
+lib/
+*.class
+#jrebel的配置文件
+rebel.xml
+
+bin/
+
+zip/
+
+compiled/
+
+
+

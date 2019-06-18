@@ -1,0 +1,31 @@
+<!--<?xml version="1.0" encoding="UTF-8" ?>-->
+<!--<beans-->
+        <!--xmlns="http://www.springframework.org/schema/beans"-->
+        <!--xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"-->
+        <!--xmlns:p="http://www.springframework.org/schema/p"-->
+        <!--xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans-3.0.xsd">-->
+
+
+    <!--&lt;!&ndash; 配置视图解析器 &ndash;&gt;-->
+    <!--<bean class="org.springframework.web.servlet.view.InternalResourceViewResolver">-->
+        <!--&lt;!&ndash; 前缀 &ndash;&gt;-->
+        <!--<property name="prefix">-->
+            <!--<value>/</value>-->
+        <!--</property>-->
+        <!--&lt;!&ndash; 后缀 &ndash;&gt;-->
+        <!--<property name="suffix">-->
+            <!--<value>.jsp</value>-->
+        <!--</property>-->
+    <!--</bean>-->
+    <!--<bean name="user" class="model.User">-->
+    <!--</bean>-->
+    <!--<bean name="/reg.do" class="controller.UserRegController">-->
+
+        <!--<property name="commandClass" value="model.User"></property>-->
+        <!--<property name="pages" value="reg,contact,survey"></property>-->
+        <!--<property name="cancelView" value="index"></property>-->
+        <!--<property name="succeseView" value="success"></property>-->
+        <!--<property name="validator"><bean class="validator.UserValidator" ></bean></property>-->
+    <!--</bean>-->
+
+<!--</beans>-->
